@@ -6,7 +6,7 @@ With React ALFA, every answer is a right answer. Code however you please.
 
 ## Instructions
 Download the repository and run in the terminal:
-    $ npm install
+` $ npm install `
 
 You can import js/jsx files from anywhere as long as the base is main.js, and it is bundled into bundle.js. To do this, run:
-    $ npm run watch
+` $ npm run watch `
